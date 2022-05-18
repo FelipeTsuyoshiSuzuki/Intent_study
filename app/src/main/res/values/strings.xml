@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="edittext_uri">URL</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Location</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">Text</string>
+    <string name="button_share">Share This Text</string>
+</resources>
